@@ -1,0 +1,40 @@
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4)\LaboratornayaRabota3\bin\Debug\net6.0-windows\LaboratornayaRabota3.exe
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4)\LaboratornayaRabota3\bin\Debug\net6.0-windows\LaboratornayaRabota3.deps.json
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4)\LaboratornayaRabota3\bin\Debug\net6.0-windows\LaboratornayaRabota3.runtimeconfig.json
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4)\LaboratornayaRabota3\bin\Debug\net6.0-windows\LaboratornayaRabota3.dll
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4)\LaboratornayaRabota3\bin\Debug\net6.0-windows\LaboratornayaRabota3.pdb
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4)\LaboratornayaRabota3\obj\Debug\net6.0-windows\LaboratornayaRabota3.csproj.AssemblyReference.cache
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4)\LaboratornayaRabota3\obj\Debug\net6.0-windows\LaboratornayaRabota3.Form1.resources
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4)\LaboratornayaRabota3\obj\Debug\net6.0-windows\LaboratornayaRabota3.oprogramms.resources
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4)\LaboratornayaRabota3\obj\Debug\net6.0-windows\LaboratornayaRabota3.Создать.resources
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4)\LaboratornayaRabota3\obj\Debug\net6.0-windows\LaboratornayaRabota3.csproj.GenerateResource.cache
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4)\LaboratornayaRabota3\obj\Debug\net6.0-windows\LaboratornayaRabota3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4)\LaboratornayaRabota3\obj\Debug\net6.0-windows\LaboratornayaRabota3.AssemblyInfoInputs.cache
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4)\LaboratornayaRabota3\obj\Debug\net6.0-windows\LaboratornayaRabota3.AssemblyInfo.cs
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4)\LaboratornayaRabota3\obj\Debug\net6.0-windows\LaboratornayaRabota3.csproj.CoreCompileInputs.cache
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4)\LaboratornayaRabota3\obj\Debug\net6.0-windows\LaboratornayaRabota3.dll
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4)\LaboratornayaRabota3\obj\Debug\net6.0-windows\refint\LaboratornayaRabota3.dll
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4)\LaboratornayaRabota3\obj\Debug\net6.0-windows\LaboratornayaRabota3.pdb
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4)\LaboratornayaRabota3\obj\Debug\net6.0-windows\LaboratornayaRabota3.genruntimeconfig.cache
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4)\LaboratornayaRabota3\obj\Debug\net6.0-windows\ref\LaboratornayaRabota3.dll
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4)\LaboratornayaRabota3\obj\Debug\net6.0-windows\LaboratornayaRabota3.Properties.Resources.resources
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4) — копия\LaboratornayaRabota3\bin\Debug\net6.0-windows\LaboratornayaRabota3.exe
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4) — копия\LaboratornayaRabota3\bin\Debug\net6.0-windows\LaboratornayaRabota3.deps.json
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4) — копия\LaboratornayaRabota3\bin\Debug\net6.0-windows\LaboratornayaRabota3.runtimeconfig.json
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4) — копия\LaboratornayaRabota3\bin\Debug\net6.0-windows\LaboratornayaRabota3.dll
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4) — копия\LaboratornayaRabota3\bin\Debug\net6.0-windows\LaboratornayaRabota3.pdb
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4) — копия\LaboratornayaRabota3\obj\Debug\net6.0-windows\LaboratornayaRabota3.csproj.AssemblyReference.cache
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4) — копия\LaboratornayaRabota3\obj\Debug\net6.0-windows\LaboratornayaRabota3.Form1.resources
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4) — копия\LaboratornayaRabota3\obj\Debug\net6.0-windows\LaboratornayaRabota3.oprogramms.resources
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4) — копия\LaboratornayaRabota3\obj\Debug\net6.0-windows\LaboratornayaRabota3.Properties.Resources.resources
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4) — копия\LaboratornayaRabota3\obj\Debug\net6.0-windows\LaboratornayaRabota3.Создать.resources
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4) — копия\LaboratornayaRabota3\obj\Debug\net6.0-windows\LaboratornayaRabota3.csproj.GenerateResource.cache
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4) — копия\LaboratornayaRabota3\obj\Debug\net6.0-windows\LaboratornayaRabota3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4) — копия\LaboratornayaRabota3\obj\Debug\net6.0-windows\LaboratornayaRabota3.AssemblyInfoInputs.cache
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4) — копия\LaboratornayaRabota3\obj\Debug\net6.0-windows\LaboratornayaRabota3.AssemblyInfo.cs
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4) — копия\LaboratornayaRabota3\obj\Debug\net6.0-windows\LaboratornayaRabota3.csproj.CoreCompileInputs.cache
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4) — копия\LaboratornayaRabota3\obj\Debug\net6.0-windows\LaboratornayaRabota3.dll
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4) — копия\LaboratornayaRabota3\obj\Debug\net6.0-windows\refint\LaboratornayaRabota3.dll
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4) — копия\LaboratornayaRabota3\obj\Debug\net6.0-windows\LaboratornayaRabota3.pdb
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4) — копия\LaboratornayaRabota3\obj\Debug\net6.0-windows\LaboratornayaRabota3.genruntimeconfig.cache
+C:\Users\ufohorek\Desktop\Чужие лабы\3\Новая папка (4) — копия\LaboratornayaRabota3\obj\Debug\net6.0-windows\ref\LaboratornayaRabota3.dll

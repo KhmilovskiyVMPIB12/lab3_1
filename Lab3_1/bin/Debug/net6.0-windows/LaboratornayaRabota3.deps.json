@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LaboratornayaRabota3/1.0.0": {
+        "runtime": {
+          "LaboratornayaRabota3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LaboratornayaRabota3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
